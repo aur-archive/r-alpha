@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=R-alpha
+GenericName=environment for statistical computing - alpha version
+Comment=language and environment for statistical computing and graphics - alpha version
+Exec=R-alpha
+Icon=/usr/share/pixmaps/r-alpha.png
+DocPath=/usr/lib/R-alpha/doc/html/index.html
+StartupNotify=true
+Terminal=true
+Type=Application
+Categories=Education;Science;Math;
